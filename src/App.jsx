@@ -81,7 +81,7 @@ const data = {
       description: [
         { title: "", description: `Homitag is online marketplace to sell and buy stuffs.` },
         { title: "", description: `I developed their payment section, user sections, resolving tickets and debugging issues as they arose in the app.` },
-        { title: "Tech Stack", description: `asdf, asdfa, asd, sadf` },
+        { title: "Tech Stack", description: `React, material-ui, chart.js, formik, saga, stripe` },
         { title: "Link", description: `https://www.homitag.com/` }]
     }
   ],
